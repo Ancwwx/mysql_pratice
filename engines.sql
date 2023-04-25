@@ -1,0 +1,8 @@
+SHOW ENGINES;
+/*添加速度快，不支持外键和事物   ENGINE MYISAM;*/
+CREATE TABLE t28(id INT,`name` VARCHAR(32))ENGINE MYISAM;
+/*数据存储在内存中[关闭mysql服务，数据丢失，但是表结构还在】执行速度快（没有IO读写），默认支持索引  ENGINE MEMORY;*/
+CREATE TABLE t29(id INT,`name` VARCHAR(32))ENGINE MEMORY;
+
+ALTER TABLE `t29` ENGINE=INNODB;
+SELECT * FROM t29;
