@@ -41,3 +41,24 @@ Warning: NLS unused message: BlockedJobsDialog_UserInterfaceTreeElement in: org.
 > Start 因特网连接管理 UI [org.eclipse.ui.net 1.4.100.v20220812-1406]
 > Start Internet Connection Management [org.eclipse.core.net 1.4.0.v20220813-1037]
 2023-04-25 23:04:27.338 - Open [https://dbeaver.io/product/version.xml]
+2023-04-25 23:04:28.432 - Configure workbench window
+> Start 帮助系统核心 [org.eclipse.help 3.9.100.v20210721-0601]
+2023-04-25 23:04:28.520 - Create actions
+2023-04-25 23:04:28.528 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2023-04-25 23:04:28.529 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2023-04-25 23:04:28.529 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+Warning: NLS unused message: pref_page_ui_general_group_timezone in: org.jkiss.dbeaver.core.CoreResources
+2023-04-25 23:04:29.262 - Initialize workbench window
+2023-04-25 23:04:29.264 - Finish initialization
+> Start Draw2d [org.eclipse.draw2dl 3.12.100.20230406122456]
+> Start GEF3 GEF (MVC) [org.eclipse.gef3 3.12.100.20230406122456]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.63.202304091457]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.63.202304091457]
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.93.202304091457]
+Warning: NLS unused message: pref_page_sql_editor_group_misc in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.103.202304091457]
+2023-04-25 23:04:29.843 - Total database drivers: 101 (101)
+> Start 缺省文本编辑器 [org.eclipse.ui.editors 3.14.400.v20220730-1844]
+> Start 文本编辑器框架 [org.eclipse.ui.workbench.texteditor 3.16.600.v20220809-1658]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.140.202304091457]
+> Start DBeaver 每日一帖 [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.109.202304091457]
