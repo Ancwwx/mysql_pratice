@@ -62,3 +62,14 @@ Warning: NLS unused message: pref_page_sql_editor_group_misc in: org.jkiss.dbeav
 > Start 文本编辑器框架 [org.eclipse.ui.workbench.texteditor 3.16.600.v20220809-1658]
 > Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.140.202304091457]
 > Start DBeaver 每日一帖 [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.109.202304091457]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.94.202304091457]
+2023-04-25 23:07:27.129 - Downloading installation file to /var/folders/5h/zshqyp050433mhh9kpwj47q00000gp/T/dbeaver-ce-latest-macos-x86_64.dmg5773797024510495946/dbeaver-ce-latest-macos-x86_64.dmg
+2023-04-25 23:07:27.130 - Open [https://dbeaver.io/files/dbeaver-ce-latest-macos-x86_64.dmg]
+> Start DBeaver MySQL UI Support [org.jkiss.dbeaver.ext.mysql.ui 1.0.95.202304091457]
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.188.202304091457]
+2023-04-25 23:07:43.664 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+> Start DBeaver UI 编辑器 - 数据 [org.jkiss.dbeaver.ui.editors.data 1.0.103.202304091457]
+2023-04-25 23:07:50.778 - DBeaver is stopping
+2023-04-25 23:07:50.780 - Stop RMI server
+2023-04-25 23:07:50.781 - RMI controller has been stopped
+2023-04-25 23:07:50.824 - DBeaver shutdown completed
