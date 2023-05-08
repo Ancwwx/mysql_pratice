@@ -57,6 +57,8 @@ CREATE TABLE bill (
 
 SELECT * FROM bill;
 
+SELECT bill.*,name FROM bill,menu WHERE bill.menuId = menu.id ;
+
 
 
 
